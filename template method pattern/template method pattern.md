@@ -1,6 +1,6 @@
-模板方法模式
+模板方法模式<br/>
 定义：
-定义一个操作中算法的框架，而将一些步骤延迟到子类中。模板方法模式使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。
+定义一个操作中算法的框架，而将一些步骤延迟到子类中。模板方法模式使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。<br/>
 通过java.io.Inputstream的read(byte b[])方法学习模板方法模式
 ```java
 public abstract class InputStream implements Closeable {
