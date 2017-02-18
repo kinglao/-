@@ -48,3 +48,9 @@ public class Singleton{
     }
 }
 ```
+枚举
+```java
+public enum Singleton{
+    INSTANCE;
+}
+```
