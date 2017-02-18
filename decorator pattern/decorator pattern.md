@@ -6,7 +6,7 @@
 
 java.io.InputStream.java 有很多子类，下面的图列出其中的三种：
 
-![](./images/Inputstream.png)
+![](./images/InputStream.png)
 
 ByteArrayInputStream: A ByteArrayInputStream contains an internal buffer that contains bytes that may be read from the stream.
 
