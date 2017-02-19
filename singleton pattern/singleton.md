@@ -54,3 +54,13 @@ public enum Singleton{
     INSTANCE;
 }
 ```
+JDK中java.lang.Runtime类中使用了单例模式：
+```java
+public class Runtime {
+    private static Runtime currentRuntime = new Runtime();
+    public static Runtime getRuntime() {
+        return currentRuntime;
+    }
+    private Runtime() {}
+}
+```
