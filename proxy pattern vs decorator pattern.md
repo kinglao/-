@@ -6,6 +6,6 @@ https://en.wikipedia.org/wiki/Proxy_pattern#Java   </br>
 https://en.wikipedia.org/wiki/Decorator_pattern#Java   </br>
 可以看出来，JDK的FutureTask使用了代理模式
 
-参考：
+参考：</br>
 http://www.cnblogs.com/jaredlam/archive/2011/11/08/2241089.html </br>
 https://powerdream5.wordpress.com/2007/11/17/the-differences-between-decorator-pattern-and-proxy-pattern/
